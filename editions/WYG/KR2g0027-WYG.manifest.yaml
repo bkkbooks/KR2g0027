@@ -1,0 +1,66 @@
+canonical_identifier: bkk:krp/KR2g0027/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR2g0027/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 慶元黨禁
+  date: '2015-08-24 22:35:10.941333'
+  source:
+    repository: kanripo
+    path: KR2g0027
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR2g0027_000-WYG.yaml, hash: 'sha256:a5a81bc4130f0d2b8117b553924d98f081bc6f279723b6726194a04944c93a55'}
+  - {seq: 1, filename: KR2g0027_001-WYG.yaml, hash: 'sha256:d8f578319dc251639eefc0f171d64d3a1838cc7dc21db13bd712c7c346317df3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2g0027_000-WYG.markers.yaml, hash: 'sha256:6d54b9eda706f4a758e66b98617ba15aea23afc54420c5344321955e424029c5'}
+  - {seq: 1, role: markers, filename: assets/KR2g0027_001-WYG.markers.yaml, hash: 'sha256:5b55069664eaa7f16c1121f982f58cd79e27b05158c0657a0405f5ffad2f092b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2g0027_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 331
+  label: 御題慶元黨禁
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0027_WYG_000-2a
+    span:
+    - body
+    - 331
+    - 1072
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0027_WYG_000-5a
+    span:
+    - body
+    - 1072
+    - 1243
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR2g0027_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 14896
+  label: 慶元黨禁
+  type: section
+  level: 1
+hash: sha256:525fa4fb86d8e1818256cdc7acb2432652399b1776c2a307c8154cd0baeadeec
