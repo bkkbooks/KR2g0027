@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR2g0027_000.yaml, hash: 'sha256:e85060936f9854755ee0dd41398676b543a32acb6f513a4d619e366af6443dcd'}
   - {seq: 1, filename: KR2g0027_001.yaml, hash: 'sha256:313913a9353f7ab9c4485bf4646048ca0a72af11ca25ee2cd38849da259b5494'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2g0027_000.markers.yaml, hash: 'sha256:0c0e931ac05e5b5f831f4ac48e1b09dfcff5b03dfee88a9e6f5d02887abd2c55'}
-  - {seq: 1, role: markers, filename: assets/KR2g0027_001.markers.yaml, hash: 'sha256:48e1f93608cd17df434c49a90593a4dd1675d6301547893724a1060a22227607'}
+  - {seq: 0, role: markers, filename: assets/KR2g0027_000.markers.yaml, hash: 'sha256:c94aa6717bacdf0088dc3e8ec75685ea6fde63a3e76d6ef84aeb3e2aafb32854'}
+  - {seq: 1, role: markers, filename: assets/KR2g0027_001.markers.yaml, hash: 'sha256:9776a33c212d5329a054a82520acebabe1421f969f21396ec01c35289d5701b0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -66,7 +66,7 @@ table_of_contents:
   label: 慶元黨禁
   type: section
   level: 1
-hash: sha256:1c3c15e85ed6b526433f51f63c1e5ca7059e13a07b47982d2e2cad4c3a66eb3f
+hash: sha256:f9eac0170ae9899a7871b1932d827ceadef665e786c314ce09f27dc389f82f27
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
